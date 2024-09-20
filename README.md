@@ -34,7 +34,7 @@ Este es un simple juego de **Piedra, Papel o Tijera** donde un bot (Bot1) juega 
 Para jugar, simplemente ejecuta el script en tu entorno de Python:
 
 ```bash
-python nombre_del_script.py
+python index.py
 ```
 
 ¡Diviértete jugando! 🎉
